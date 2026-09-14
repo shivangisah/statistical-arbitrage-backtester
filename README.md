@@ -97,6 +97,9 @@ daily hedged P&L is approximated as
 Delta_TXN_t - beta × Delta_GS_t
 
 and normalized by previous-day gross capital.
+## Dashboard Preview
+
+![TXN-GS Statistical Arbitrage Dashboard](results/TXN_GS_Dashboard_Preview(1).png)
 
 Results
 
